@@ -1,34 +1,57 @@
 body {
     background: black;
     text-align: center;
+    margin: 0;
+    padding: 0;
     }
 
-p1 {
+h1 {
     font-family: Verdana;
     font-size: 50px;
-    color: #ffffff;
+    font-weight: normal;
+    color: #fff;
     }
- a:link {
-      font-size: 16px;
-      color: aqua;
- }
 
- p2 {
-     font-family: Verdana;
-     font-size: 42px;
-     color: #FFFFFF;
-     }
+ a  {
+    font-family: Verdana;
+    font-size: 16px;
+    text-align: center;
+    color: aquamarine;
+    margin: 5px;
+    padding: 5px;
+    }
 
- p3 {
-     font-family: Verdana;
-     font-size: 21px;
-     color: gray;
-     }
+ h2 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+    color: #fff;
+    }
 
- p4 {
-     font-family: Verdana;
-     font-size: 42px;
-     color: #ffffff;
-     margin-top: 40px;
-     margin-bottom: 40px;
-     }
+ h3 {
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: 100;
+    color: gray;
+    margin: 9px;
+    padding: 9px;
+    }
+
+ h4 {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 400;
+    color: #fff;
+    margin: 20px;
+    padding: 10px;
+    }
+
+ h5 {
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: 200;
+    color: gray;
+    text-align: right;
+    margin: 5px;
+    padding: 5px;
+    }
